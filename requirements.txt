@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+numpy
+pandas
+ollama
+python-dotenv
+pypdf
+beautifulsoup4
+python-docx
+sentence-transformers
+langchain-text-splitters
